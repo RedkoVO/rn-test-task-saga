@@ -1,0 +1,182 @@
+{
+   "collection": [
+      {
+         "id": 1,
+         "letter": "A",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Anabella Sørensen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Astrid Petersen",
+               "phone": "+ 1 7234 8852 1200"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "letter": "B",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Bemily Mortensen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Bigga Andersen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Blaurits Sørensen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "letter": "C",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Clara Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Clara Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Clara Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 4,
+               "name": "Clara Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 5,
+               "name": "Clara Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 6,
+               "name": "Clara Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "letter": "D",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Daria Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Daria Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Daria Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      },
+      {
+         "id": 5,
+         "letter": "E",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Enriko Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Enriko Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Enriko Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      },
+      {
+         "id": 6,
+         "letter": "F",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Fin Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Fin Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Fin Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      },
+      {
+         "id": 7,
+         "letter": "G",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Gregor Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Gregor Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Gregor Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      },
+      {
+         "id": 8,
+         "letter": "H",
+         "contacts": [
+            {
+               "id": 1,
+               "name": "Hunter Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 2,
+               "name": "Hunter Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            },
+            {
+               "id": 3,
+               "name": "Hunter Knudsen",
+               "phone": "+ 1 9983 2849 2312"
+            }
+         ]
+      }
+   ]
+}
